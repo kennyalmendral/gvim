@@ -3,7 +3,7 @@ call pathogen#helptags()
 
 set nocompatible
 set cpoptions=aABceFsmq
-set guifont=Consolas:h9
+set guifont=Consolas:h11
 set guioptions-=T
 
 syntax on
@@ -81,6 +81,7 @@ inoremap <tab> <c-r>=InsertTabWrapper()<cr>
 inoremap <s-tab> <c-p>
 
 imap jj <esc>
+imap <C-Return> <CR><CR><C-o>k<Tab>
 
 cnoreabbrev W w
 cnoreabbrev Wq wq
