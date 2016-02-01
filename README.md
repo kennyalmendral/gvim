@@ -1,4 +1,4 @@
-# Bundles
+# Clone to bundles/
 + https://github.com/mattn/webapi-vim.git
 + https://github.com/kien/ctrlp.vim.git
 + https://github.com/mattn/emmet-vim.git
