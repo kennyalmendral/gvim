@@ -3,7 +3,7 @@ call pathogen#helptags()
 
 set nocompatible
 set cpoptions=aABceFsmq
-set guifont=Consolas:h11
+set guifont=Consolas:h9
 set guioptions-=T
 
 syntax on
