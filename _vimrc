@@ -9,9 +9,7 @@ set guioptions-=T
 syntax on
 syntax enable
 
-set background=dark
-colorscheme solarized
-"colorscheme xoria256
+colorscheme oceandeep
 
 filetype on
 filetype indent on
@@ -42,6 +40,7 @@ augroup END
 
 let mapleader=','
 
+map <leader>n :execute 'NERDTreeToggle ' . getcwd()<cr>
 map <leader>o :call OpenUrlUnderCursor()<cr>
 map <left> <ESC>:bp<RETURN>
 map <right> <ESC>:bn<RETURN>
