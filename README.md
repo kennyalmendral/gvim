@@ -1,5 +1,5 @@
 # Gvim
-My vim config for Windows
+My vim config for Windows.
 
 ### Clone to bundle/
 + https://github.com/mattn/webapi-vim.git
