@@ -8,4 +8,3 @@ My vim config for Windows.
 + https://github.com/othree/html5.vim.git
 + https://github.com/tpope/vim-surround
 + https://github.com/scrooloose/nerdtree.git
-+ https://github.com/jwalton512/vim-blade.git
