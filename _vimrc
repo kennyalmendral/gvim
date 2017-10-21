@@ -28,6 +28,7 @@ let g:user_emmet_leader_key='<C-E>' " Remap the default <C-Y> leader
 
 " CtrlP
 let g:ctrlp_working_path_mode = 'ra' " Set local working directory
+let g:ctrlp_custom_ignore = 'node_modules\|DS_Store\|git' " Ignore unnecessary directories
 
 set runtimepath^=C:/Program\ Files/Vim/vimfiles/bundle/ctrlp.vim
 
