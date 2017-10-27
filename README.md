@@ -1,4 +1,4 @@
-# Gvim
+# gvim
 My vim config for Windows.
 
 ### Clone to bundle/
