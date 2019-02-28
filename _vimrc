@@ -9,7 +9,8 @@ set guioptions-=T
 syntax on
 syntax enable
 
-colorscheme oceandeep
+#colorscheme oceandeep
+colorscheme material
 
 filetype on
 filetype indent on
