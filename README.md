@@ -9,3 +9,4 @@ My vim config for Windows
 + https://github.com/tpope/vim-surround
 + https://github.com/scrooloose/nerdtree.git
 + https://github.com/leafgarland/typescript-vim
++ https://github.com/jwalton512/vim-blade.git
