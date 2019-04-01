@@ -10,7 +10,8 @@ syntax on
 syntax enable
 
 "colorscheme oceandeep
-colorscheme material
+"colorscheme material
+colorscheme nord
 
 filetype on
 filetype indent on
