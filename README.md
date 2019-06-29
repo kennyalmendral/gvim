@@ -11,3 +11,4 @@ My vim config for Windows
 + https://github.com/leafgarland/typescript-vim
 + https://github.com/jwalton512/vim-blade.git
 + https://github.com/arcticicestudio/nord-vim.git
++ https://github.com/mxw/vim-jsx.git
