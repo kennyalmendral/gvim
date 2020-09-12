@@ -25,6 +25,9 @@ set tabstop=4
 
 set nowrap
 
+" NERDTree
+let NERDTreeShowHidden=1
+
 " Emmet
 let g:user_emmet_leader_key='<C-E>' " Remap the default <C-Y> leader
 
